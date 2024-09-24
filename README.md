@@ -2,7 +2,7 @@
 
 
 ### Whoami
-My name is Arkadiusz Mincberger. I'm currently 4th-year Computer Science student at AGH University of Science and Technology Employed at Medius.
+My name is Arkadiusz Mincberger. I'm currently 4th-year Computer Science student at AGH University of Science and Technology Employed at 🎯Medius.
 🔭 I'm a DDD and OOP passionate and Math enjoyer, writing in C# professionaly and in Java recreationally
 I can write frontend in React too! 😄
 
